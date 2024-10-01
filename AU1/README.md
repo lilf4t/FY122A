@@ -1,6 +1,4 @@
-# Uppgift 1
-
-1 Problembeskrivning
+# Problembeskrivning
 Satelliter används idag flitigt, både för kommersiell användning (väder, telekommunikation, etc.)
 och för forskningsändamål. Ibland behöver två satelliter kopplas ihop, vilket benämns att satelli-
 terna dockar. Uppgiften går ut på att skriva en funktion till ett enkelt simuleringsprogram som körs i Python.
