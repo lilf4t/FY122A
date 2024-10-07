@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# @author - Fatima Kadum, Laila Suleiman, Alice Jeverdeanu
 
 ###################################  Uppgift 1, differentialekvation ##########################
 
